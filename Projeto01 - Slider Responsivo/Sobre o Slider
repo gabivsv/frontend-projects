@@ -1,1 +1,23 @@
+Slider Responsivo em HTML, CSS e JavaScript
 
+Este é um slider responsivo simples desenvolvido utilizando HTML, CSS e JavaScript. 
+É adequado para ser utilizado em diferentes tipos de sites, como páginas de destaque, galerias de imagens, portfólios, entre outros.
+
+Recursos:
+Responsivo: O slider se adapta automaticamente a diferentes tamanhos de tela, proporcionando uma experiência de visualização ideal em dispositivos desktop, tablets e smartphones.
+Navegação Automática: O slider possui navegação automática, alternando suavemente entre as imagens em intervalos regulares.
+Navegação Manual: Os usuários podem navegar manualmente entre as imagens clicando nos botões de navegação ou usando os controles de rádio.
+Personalizável: O código é altamente personalizável e fácil de entender. Você pode modificar facilmente o estilo, adicionar mais slides 
+e ajustar o comportamento do slider conforme suas necessidades.
+
+Personalização
+O código do slider é altamente personalizável. Você pode ajustar o estilo, adicionar mais slides, modificar a lógica de navegação e muito mais. 
+Sinta-se à vontade para experimentar e adaptar o slider de acordo com suas necessidades específicas.
+
+Sobre as Imagens:
+
+- IMAGENS DESKTOP 
+1920 X 650
+
+- IMAGENS MOBILE
+1040 X 600
